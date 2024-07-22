@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="badges">
+<div id="badges" align="center">
   <a href="[Gurmukh Singh](https://www.linkedin.com/in/gurmukh-s-947156231/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[Techtactics](https://www.youtube.com/@TechTactics4253)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="[Techtactics](https://www.youtube.com/@TechTactics4253)">
+    <img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
+
+# 🛠️ Languages and Tools:
