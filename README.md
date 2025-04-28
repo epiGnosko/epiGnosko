@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Gurmukh-Singh-4253/Gurmukh-Singh-4253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**epiGnosko/epiGnosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!-- 🔗 You can check out my [website](https://sohamch08.github.io/) -->
 
 
-<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Gurmukh-Singh-4253&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmukh-Singh-4253&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=epiGnosko&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiGnosko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 
 ## Github Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=gurmukh-singh-4253&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=epiGnosko&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
 ## Tools I have Used 
